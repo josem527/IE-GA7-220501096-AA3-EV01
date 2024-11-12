@@ -1,0 +1,4 @@
+com\example\personas\models\Persona.class
+com\example\personas\controllers\PersonasController.class
+com\example\personas\PersonasApplication.class
+com\example\personas\repositories\PersonasRepository.class
